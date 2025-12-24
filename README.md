@@ -26,3 +26,10 @@ Fetches real-time weather data for the specified city and enriches it with:
 
 country information
 regional news headlines
+
+## Images
+
+<img width="542" height="514" alt="image" src="https://github.com/user-attachments/assets/a9fff365-7051-4a82-b99f-102cd50c3d0a" />
+<img width="827" height="915" alt="Снимок экрана 2025-12-23 174841" src="https://github.com/user-attachments/assets/f63872e5-f8c3-4e79-8610-9803616a00b1" />
+
+
